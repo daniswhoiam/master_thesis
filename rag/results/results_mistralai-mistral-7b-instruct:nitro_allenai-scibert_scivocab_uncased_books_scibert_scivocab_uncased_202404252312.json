@@ -1,0 +1,1 @@
+{"model": "mistralai/mistral-7b-instruct:nitro", "embedding": "allenai/scibert_scivocab_uncased", "collection": "books_scibert_scivocab_uncased", "date": "202404252312", "num_rows": 650}

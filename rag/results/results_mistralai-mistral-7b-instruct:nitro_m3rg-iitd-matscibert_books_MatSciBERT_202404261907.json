@@ -1,0 +1,1 @@
+{"model": "mistralai/mistral-7b-instruct:nitro", "embedding": "m3rg-iitd/matscibert", "collection": "books_MatSciBERT", "date": "202404261907", "num_rows": 650}

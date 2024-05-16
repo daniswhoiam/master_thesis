@@ -1,0 +1,1 @@
+{"model": "microsoft/wizardlm-2-8x22b", "embedding": "m3rg-iitd/matscibert", "collection": "elsevier_abstracts", "date": "202404221154", "num_rows": 650}

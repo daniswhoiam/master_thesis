@@ -1,0 +1,1 @@
+{"model": "mistralai/mistral-7b-instruct:nitro", "embedding": "sentence-transformers/multi-qa-MiniLM-L6-cos-v1", "collection": "books_multi-qa-MiniLM-L6-cos-v1", "date": "202405010024", "num_rows": 650}

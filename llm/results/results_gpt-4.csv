@@ -1,0 +1,651 @@
+﻿qids;qstr;correct_result;filtered_result;overlap;topic
+G-META-12-10;MCQS;A;A;1;Atomic Structure
+G-META-12-11;MCQS;B;B;1;Atomic Structure
+G-META-12-12;MCQS;C;C;1;Thermodynamics
+G-META-12-13;MCQS;D;A;0;Thermodynamics
+G-META-12-14;MCQS;A;A;1;Magnetic Properties
+G-META-12-15;MCQS-NUM;B;B;1;Thermodynamics
+G-META-12-16;MCQS;B;B;1;Thermodynamics
+G-META-12-17;MCQS;C;C;1;Material Characterization
+G-META-12-18;MCQS;B;B;1;Material Applications
+G-META-12-19;MCQS;D;D;1;Miscellaneous
+G-META-12-20;MCQS;A;C;0;Material Characterization
+G-META-12-21;MCQS;C;C;1;Material Applications
+G-META-12-22;MCQS;D;C;0;Mechanical Properties
+G-META-12-24;MCQS;C;C;1;Material Applications
+G-META-12-25;MCQS;D;D;1;Electrical Properties
+G-META-12-31;MATCH;A;A;1;Phase Transition
+G-META-12-32;MCQS;C;D;0;Mechanical Properties
+G-META-12-33;MCQS-NUM;B;B;1;Atomic Structure
+G-META-12-34;MATCH;D;D;1;Atomic Structure
+G-META-12-35;MCQS-NUM;D;D;1;Transport Phenomena
+G-META-12-36;MCQS-NUM;B;A;0;Atomic Structure
+G-META-12-38;MCQS;A;D;0;Phase Transition
+G-META-12-39;MATCH;C;C;1;Material Applications
+G-META-12-40;MCQS;A;A;1;Atomic Structure
+G-META-12-41;MCQS;D;C;0;Material Processing
+G-META-12-43;MATCH;C;C;1;Material Applications
+G-META-12-44;MCQS-NUM;C;C;1;Material Processing
+G-META-12-45;MCQS-NUM;B;B;1;Atomic Structure
+G-META-12-46;MCQS;C;C;1;Material Applications
+G-META-12-47;MATCH;C;C;1;Miscellaneous
+G-META-12-48;MCQS-NUM;A;;0;Material Characterization
+G-META-12-49;MCQS-NUM;B;C;0;Thermodynamics
+G-META-12-52;MCQS-NUM;A;A;1;Material Applications
+G-META-12-53;MCQS-NUM;B;;0;Material Applications
+G-META-12-54;MCQS-NUM;B;C;0;Thermodynamics
+G-META-12-6;MCQS;A;A;1;Material Characterization
+G-META-12-7;MCQS-NUM;B;;0;Magnetic Properties
+G-META-12-8;MCQS;D;C;0;Thermodynamics
+G-META-12-9;MCQS;A;A;1;Mechanical Properties
+G-META-13-10;MCQS;B;B;1;Atomic Structure
+G-META-13-11;MCQS;D;C,D;0;Material Applications
+G-META-13-12;MCQS;C;B;0;Material Applications
+G-META-13-13;MCQS;A;B;0;Thermodynamics
+G-META-13-14;MCQS;B;B;1;Phase Transition
+G-META-13-15;MCQS;C;B;0;Mechanical Properties
+G-META-13-16;MCQS;B;B;1;Material Applications
+G-META-13-17;MCQS;C;C;1;Phase Transition
+G-META-13-18;MCQS;B;B;1;Thermodynamics
+G-META-13-19;MCQS;A;A,B;0;Material Applications
+G-META-13-2;MCQS;D;C;0;Material Applications
+G-META-13-20;MCQS;C;C;1;Atomic Structure
+G-META-13-22;NUM;0.339 TO 0.341;0,34;1;Thermodynamics
+G-META-13-23;NUM;3;3;1;Thermodynamics
+G-META-13-24;NUM;0,25;;0;Material Applications
+G-META-13-25;NUM;400;400;1;Thermodynamics
+G-META-13-29;MCQS-NUM;C;D;0;Thermodynamics
+G-META-13-3;MCQS;A;A;1;Material Manufacturing
+G-META-13-30;MCQS-NUM;D;D;1;Magnetic Properties
+G-META-13-31;MCQS-NUM;A;A;1;Phase Transition
+G-META-13-32;MATCH;C;C;1;Atomic Structure
+G-META-13-33;MCQS-NUM;B;B;1;Material Characterization
+G-META-13-34;MCQS-NUM;D;B;0;Thermodynamics
+G-META-13-35;MCQS-NUM;D;D;1;Electrical Properties
+G-META-13-36;MCQS-NUM;A;D;0;Material Applications
+G-META-13-37;MATCH;D;A;0;Material Applications
+G-META-13-38;MATCH;A;A;1;Mechanical Properties
+G-META-13-39;MATCH;D;D;1;Atomic Structure
+G-META-13-4;MCQS;B;A;0;Transport Phenomena
+G-META-13-40;MCQS-NUM;C;A;0;Atomic Structure
+G-META-13-41;MATCH;A;A;1;Thermodynamics
+G-META-13-42;MCQS;C;C;1;Material Characterization
+G-META-13-43;NUM;73 TO 75;74;1;Atomic Structure
+G-META-13-46;NUM;7.9 TO 8.3;0,000796;0;Thermodynamics
+G-META-13-47;NUM;2626 TO 2632;0;0;Thermodynamics
+G-META-13-5;MCQS;A;A;1;Electrical Properties
+G-META-13-50;MCQS-NUM;D;C;0;Phase Transition
+G-META-13-51;MCQS-NUM;A;A;1;Material Applications
+G-META-13-54;MCQS-NUM;B;B;1;Material Manufacturing
+G-META-13-55;MCQS-NUM;C;C;1;Atomic Structure
+G-META-13-6;MCQS;C;C;1;Mechanical Properties
+G-META-13-7;MCQS;A;A;1;Thermodynamics
+G-META-13-8;MCQS;B;B;1;Electrical Properties
+G-META-13-9;MCQS;A;A;1;Magnetic Properties
+G-META-14-1;MCQS;C;D;0;Material Manufacturing
+G-META-14-11;MCQS;C;C;1;Phase Transition
+G-META-14-12;MCQS;C;C;1;Thermodynamics
+G-META-14-13;MCQS;B;B;1;Atomic Structure
+G-META-14-14;MCQS;A;A;1;Atomic Structure
+G-META-14-15;MCQS;A;A;1;Material Applications
+G-META-14-16;MCQS;C;C;1;Atomic Structure
+G-META-14-17;NUM;350 T0 350;350;1;Atomic Structure
+G-META-14-18;MCQS;A;A;1;Material Characterization
+G-META-14-19;MCQS;A;A;1;Mechanical Properties
+G-META-14-2;MCQS;D;D;1;Atomic Structure
+G-META-14-20;MCQS;C;C;1;Electrical Properties
+G-META-14-22;MCQS;A;A;1;Material Applications
+G-META-14-23;MCQS;B;B;1;Mechanical Properties
+G-META-14-25;MCQS;C;C;1;Material Applications
+G-META-14-26;NUM;26.3 TO 26.5;26,4;1;Material Processing
+G-META-14-27;MCQS-NUM;C;B;0;Miscellaneous
+G-META-14-29;NUM;0.46 TO 0.49;0,4752;1;Electrical Properties
+G-META-14-30;MCQS;B;A;0;Atomic Structure
+G-META-14-31;MCQS;D;C;0;Magnetic Properties
+G-META-14-32;MATCH;C;C;1;Mechanical Properties
+G-META-14-33;NUM;951 TO 953;952,38;1;Atomic Structure
+G-META-14-34;NUM;2.8 TO 2.9;12,04;0;Magnetic Properties
+G-META-14-35;MATCH;D;D;1;Thermodynamics
+G-META-14-37;NUM;2;2;1;Atomic Structure
+G-META-14-38;NUM;300;300;1;Atomic Structure
+G-META-14-39;MCQS;D;D;1;Phase Transition
+G-META-14-4;MCQS;C;C;1;Electrical Properties
+G-META-14-40;NUM;4.2 TO 4.3;4,24;1;Electrical Properties
+G-META-14-41;NUM;0,2;0,2;1;Mechanical Properties
+G-META-14-42;MATCH;C;D;0;Material Applications
+G-META-14-43;MATCH;B;B;1;Thermodynamics
+G-META-14-44;MCQS;A;C;0;Thermodynamics
+G-META-14-46;MCQS;C;C;1;Miscellaneous
+G-META-14-47;MATCH;B;B;1;Atomic Structure
+G-META-14-48;NUM;2.30 TO 2.38;2,338;1;Mechanical Properties
+G-META-14-49;NUM;35 TO 36;0,00029;0;Transport Phenomena
+G-META-14-5;MCQS;C;C;1;Material Manufacturing
+G-META-14-50;MCQS;C;C;1;Thermodynamics
+G-META-14-51;MCQS;C;A;0;Material Characterization
+G-META-14-53;NUM;22380 TO 22480;17162,444;0;Thermodynamics
+G-META-14-55;NUM;30.0 TO 30.5;41,628;0;Atomic Structure
+G-META-14-7;MCQS;A;A;1;Material Manufacturing
+G-META-14-8;MCQS;B;B;1;Material Manufacturing
+G-META-14-9;NUM;19.95 TO 20.05;20;1;Thermodynamics
+G-META-15-10;MCQS;D;D;1;Thermodynamics
+G-META-15-13;MCQS;D;A;0;Magnetic Properties
+G-META-15-14;MCQS;B;B;1;Phase Transition
+G-META-15-15;MCQS;D;C;0;Miscellaneous
+G-META-15-16;MCQS;A;A;1;Atomic Structure
+G-META-15-17;MCQS;C;C;1;Thermodynamics
+G-META-15-18;MCQS;B;B;1;Thermodynamics
+G-META-15-19;MCQS;B;B;1;Material Manufacturing
+G-META-15-20;MCQS;C;C;1;Material Manufacturing
+G-META-15-21;MCQS;D;D;1;Material Manufacturing
+G-META-15-22;NUM;490 TO 510;500;1;Phase Transition
+G-META-15-24;MCQS;C;C;1;Material Applications
+G-META-15-25;MCQS;B;B;1;Atomic Structure
+G-META-15-31;MCQS;D;D;1;Electrical Properties
+G-META-15-32;NUM;2.1 TO 2.3;4,24;0;Phase Transition
+G-META-15-33;NUM;1400 TO 1450;1428,57;1;Material Characterization
+G-META-15-35;MATCH;B;B;1;Thermodynamics
+G-META-15-37;NUM;29.5 TO 30.0;12,94;0;Thermodynamics
+G-META-15-38;NUM;0,5;0,5;1;Material Characterization
+G-META-15-39;NUM; -1600 TO -1500;-816,917;0;Material Processing
+G-META-15-4;MCQS;C;C;1;Atomic Structure
+G-META-15-40;MATCH;C;C;1;Phase Transition
+G-META-15-41;NUM;1;1;1;Material Manufacturing
+G-META-15-42;MATCH;A;A;1;Atomic Structure
+G-META-15-45;NUM;0.9 TO 1.1;1;0;Atomic Structure
+G-META-15-46;MCQS;B;B;1;Mechanical Properties
+G-META-15-47;NUM;0.39 TO 0.41;0,04;0;Material Characterization
+G-META-15-48;MATCH;B;B;1;Material Applications
+G-META-15-49;NUM;10;10;1;Electrical Properties
+G-META-15-5;MCQS;B;B;1;Phase Transition
+G-META-15-50;MCQS;D;D;1;Thermodynamics
+G-META-15-51;MATCH;C;C;1;Mechanical Properties
+G-META-15-52;MATCH;C;C;1;Phase Transition
+G-META-15-53;NUM;3;3;1;Phase Transition
+G-META-15-54;MATCH;C;A;0;Atomic Structure
+G-META-15-55;NUM;100;100;1;Material Applications
+G-META-15-7;MCQS;C;C;1;Fluid Mechanics
+G-META-15-8;MCQS;A;A;1;Material Manufacturing
+G-META-15-9;MCQS;A;A;1;Atomic Structure
+G-META-16-10;MCQS;A;D;0;Material Manufacturing
+G-META-16-11;MCQS;D;D;1;Material Applications
+G-META-16-12;NUM;0.045 TO 0.06;0,07275;0;Material Manufacturing
+G-META-16-13;MCQS-NUM;B;B;1;Material Manufacturing
+G-META-16-16;NUM;54.0 TO 55.5;54,74;1;Thermodynamics
+G-META-16-18;MCQS;B;A;0;Atomic Structure
+G-META-16-19;MCQS;A;A,B,C;0;Atomic Structure
+G-META-16-20;MCQS;D;C;0;Electrical Properties
+G-META-16-21;MCQS;B;B;1;Thermodynamics
+G-META-16-22;MCQS;D;D;1;Thermodynamics
+G-META-16-23;MCQS;D;D;1;Atomic Structure
+G-META-16-24;NUM;25.5 TO 26.5;25,9;1;Mechanical Properties
+G-META-16-25;NUM;0.9 TO 1.1;249;0;Material Manufacturing
+G-META-16-32;NUM;-168.7 TO -168.1;180,498;0;Atomic Structure
+G-META-16-35;NUM;31.0 TO 32.0;31,43;1;Transport Phenomena
+G-META-16-36;MATCH;A;A;1;Electrical Properties
+G-META-16-37;NUM;10.0 TO 10.5;8;0;Thermodynamics
+G-META-16-38;NUM;2.0 TO 2.5;1,85;0;Material Processing
+G-META-16-39;NUM;97.5 TO 98.3;97,34;0;Thermodynamics
+G-META-16-4;MCQS;A;A;1;Material Manufacturing
+G-META-16-40;NUM;11.6 TO 11.8;9,8;0;Phase Transition
+G-META-16-42;MCQS;A;A;1;Material Manufacturing
+G-META-16-48;NUM;115 TO 125;1697;0;Material Processing
+G-META-16-49;NUM;14.0 TO 15.5;12;0;Mechanical Properties
+G-META-16-5;MCQS;B;B;1;Mechanical Properties
+G-META-16-50;NUM;1.3 TO 1.5;1,414;1;Mechanical Properties
+G-META-16-51;MCQS-NUM;A;C;0;Material Processing
+G-META-16-52;NUM;1.7 TO 1.9;;0;Material Processing
+G-META-16-53;MCQS-NUM;D;A;0;Fluid Mechanics
+G-META-16-54;MCQS-NUM;C;C;1;Atomic Structure
+G-META-16-55;MATCH;C;C;1;Mechanical Properties
+G-META-16-6;MCQS;D;D;1;Thermodynamics
+G-META-16-7;MCQS;A;A;1;Atomic Structure
+G-META-16-8;MCQS;C;B;0;Material Processing
+G-META-16-9;MATCH;B;B;1;Atomic Structure
+G-META-17-10;NUM;13.30 TO 15.50;183,24;0;Phase Transition
+G-META-17-11;NUM;0.030 TO 0.034;0,032;1;Mechanical Properties
+G-META-17-12;NUM;0.36 TO 0.44;0,49;0;Material Processing
+G-META-17-13;NUM;4;4;1;Phase Transition
+G-META-17-14;MCQS;A;A;1;Thermodynamics
+G-META-17-16;NUM;95.00 TO 125.00;18,97;0;Transport Phenomena
+G-META-17-17;MCQS;C;B,C;0;Material Manufacturing
+G-META-17-18;MCQS;A;A;1;Material Manufacturing
+G-META-17-19;NUM;24.00 TO 26.00;58,43;0;Material Manufacturing
+G-META-17-20;NUM;0.006 TO 0.010;0,008;1;Material Manufacturing
+G-META-17-22;NUM;1.20 TO 1.40;;0;Atomic Structure
+G-META-17-24;MCQS;D;D;1;Thermodynamics
+G-META-17-25;MCQS;D;D;1;Material Processing
+G-META-17-32;NUM;130.00 TO 135.00;149,96;0;Atomic Structure
+G-META-17-34;NUM;0.170 TO 0.175;0,132;0;Atomic Structure
+G-META-17-35;NUM;1;2;0;Material Manufacturing
+G-META-17-36;MATCH;A;A;1;Material Manufacturing
+G-META-17-37;NUM;0.0010 TO 0.0050;0,0127;0;Mechanical Properties
+G-META-17-38;NUM;6650.00 TO 6750.00;6707,09;1;Magnetic Properties
+G-META-17-39;NUM;1.80 TO 2.20;2;1;Atomic Structure
+G-META-17-40;NUM;11470.00 TO 11580.00;9,58;0;Material Applications
+G-META-17-42;NUM;0.92 TO 0.96;-74,66;0;Material Characterization
+G-META-17-43;NUM;2.50 TO 2.60;10;0;Electrical Properties
+G-META-17-45;MATCH;D;B;0;Material Manufacturing
+G-META-17-47;MCQS-NUM;B;B;1;Material Manufacturing
+G-META-17-48;NUM;0.009 TO 0.015;0,046;0;Material Applications
+G-META-17-49;NUM;96.00 TO 98.00;97,43;1;Thermodynamics
+G-META-17-5;MCQS-NUM;D;D;1;Thermodynamics
+G-META-17-51;MCQS;B;B;1;Atomic Structure
+G-META-17-52;NUM;0.110 TO 0.140;0,125;1;Atomic Structure
+G-META-17-53;NUM;11.00 TO 12.50;1,22;0;Mechanical Properties
+G-META-17-54;NUM;6.60 TO 7.40;79,26;0;Atomic Structure
+G-META-17-55;MCQS-NUM;C;C;1;Material Applications
+G-META-17-6;MCQS;A;A;1;Atomic Structure
+G-META-17-7;NUM;4900 TO 4940;4920;1;Thermodynamics
+G-META-17-9;MCQS;B;A;0;Mechanical Properties
+G-META-18-1;MCQS;A;A;1;Electrical Properties
+G-META-18-10;MCQS-NUM;C;C;1;Material Applications
+G-META-18-11;MCQS;D;D;1;Miscellaneous
+G-META-18-13;MCQS-NUM;D;D;1;Material Testing
+G-META-18-14;MCQS;D;A;0;Material Applications
+G-META-18-15;MCQS;B;B;1;Material Manufacturing
+G-META-18-16;MCQS;B;B;1;Mechanical Properties
+G-META-18-17;MCQS;C;C;1;Material Processing
+G-META-18-18;MCQS;B;B;1;Mechanical Properties
+G-META-18-19;MCQS;C;C;1;Phase Transition
+G-META-18-2;MCQS;A;A;1;Material Processing
+G-META-18-20;MCQS;B;B;1;Material Manufacturing
+G-META-18-24;NUM;0.9 TO 1.1;109,1;0;Material Characterization
+G-META-18-25;NUM;180 TO 220;200;1;Material Processing
+G-META-18-26;MCQS-NUM;A;A;1;Mechanical Properties
+G-META-18-27;MCQS;B;B;1;Thermodynamics
+G-META-18-28;MCQS;D;A;0;Phase Transition
+G-META-18-29;MCQS;C;A;0;Transport Phenomena
+G-META-18-3;MCQS;A;A;1;Thermodynamics
+G-META-18-32;MATCH;C;C;1;Material Applications
+G-META-18-34;MCQS-NUM;A;A;1;Transport Phenomena
+G-META-18-36;MATCH;C OR D;D;1;Mechanical Properties
+G-META-18-39;MCQS-NUM;B;B;1;Material Manufacturing
+G-META-18-4;MCQS;A;A;1;Material Manufacturing
+G-META-18-41;NUM;0.96 TO 0.98;0,97;1;Mechanical Properties
+G-META-18-42;NUM;-5.5 TO -4.5;90,5;0;Material Processing
+G-META-18-44;NUM;1.9 TO 2.0;1,84;0;Material Manufacturing
+G-META-18-45;NUM;0.9 TO 1.0;0,08;0;Material Processing
+G-META-18-46;NUM;4.5 TO 4.8;3,18;0;Atomic Structure
+G-META-18-47;NUM;1500 TO 1600;7,8;0;Atomic Structure
+G-META-18-48;NUM;24.9 TO 29.0;21,1;0;Phase Transition
+G-META-18-49;NUM;14.9 TO 15.1;;0;Material Manufacturing
+G-META-18-5;MCQS;D;D;1;Mechanical Properties
+G-META-18-50;NUM;0.74 TO 0.78;0,75;1;Material Applications
+G-META-18-51;NUM;427 TO 432;328,8;0;Thermodynamics
+G-META-18-52;NUM;0.225 TO 0.235;0,233;1;Material Manufacturing
+G-META-18-53;NUM;0.450 TO 0.480;0,283;0;Material Manufacturing
+G-META-18-55;NUM;555.5 TO 565.5;7065;0;Material Applications
+G-META-18-6;MCQS-NUM;D;D;1;Transport Phenomena
+G-META-18-8;MCQS;B;B;1;Electrical Properties
+G-META-18-9;MCQS;D;D;1;Atomic Structure
+G-META-19-10;MCQS;D;D;1;Atomic Structure
+G-META-19-12;MCQS;C;C;1;Thermodynamics
+G-META-19-13;MCQS;D;D;1;Material Processing
+G-META-19-14;MCQS;C;C;1;Atomic Structure
+G-META-19-15;MCQS;A;A;1;Material Manufacturing
+G-META-19-16;MCQS;B;B;1;Material Manufacturing
+G-META-19-17;MCQS;C;A;0;Material Processing
+G-META-19-18;MCQS;B;B;1;Mechanical Properties
+G-META-19-19;MCQS-NUM;C;C;1;Material Applications
+G-META-19-21;MCQS;B;B;1;Material Applications
+G-META-19-22;MCQS;D;C;0;Thermodynamics
+G-META-19-24;NUM;0.153 TO 0.155;0,154;1;Material Manufacturing
+G-META-19-25;NUM;16.0 TO 17.4;1,7;0;Material Manufacturing
+G-META-19-26;MATCH;A;A;1;Thermodynamics
+G-META-19-27;MATCH;D;D;1;Phase Transition
+G-META-19-29;MATCH;A;A;1;Transport Phenomena
+G-META-19-30;MCQS;C;C;1;Material Applications
+G-META-19-31;MATCH;D;D;1;Mechanical Properties
+G-META-19-32;MCQS;A;C;0;Material Processing
+G-META-19-34;MATCH;B;B;1;Material Applications
+G-META-19-35;MCQS-NUM;D;A;0;Mechanical Properties
+G-META-19-36;NUM;2.90 TO 3.10;3;1;Material Testing
+G-META-19-40;NUM;0.04 TO 0.06;0,05;1;Mechanical Properties
+G-META-19-42;NUM;0.11 TO 0.13;12,38;0;Material Applications
+G-META-19-43;NUM;0.039 TO 0.042;0,042;1;Atomic Structure
+G-META-19-44;NUM;2347 TO 2357;2352;1;Material Applications
+G-META-19-45;NUM;1927 TO 1937;2,45;0;Mechanical Properties
+G-META-19-46;NUM;1485 TO 1495;1494;1;Thermodynamics
+G-META-19-47;NUM;0.4 TO 5.1;1,4;1;Phase Transition
+G-META-19-48;NUM;11.0 TO 12.5;118,8;0;Thermodynamics
+G-META-19-49;NUM;155.0 T0 165.0;160;1;Material Applications
+G-META-19-5;MCQS-NUM;C;C;1;Material Manufacturing
+G-META-19-52;NUM;130.0 TO 134.0;239,7;0;Material Manufacturing
+G-META-19-54;NUM;3.6 TO 4.2;20;0;Material Applications
+G-META-19-55;NUM;955 TO 965;960;1;Atomic Structure
+G-META-19-7;MCQS;B;B;1;Atomic Structure
+G-META-19-8;MCQS;B;B;1;Atomic Structure
+G-META-19-9;MCQS;A;A;1;Mechanical Properties
+G-META-20-10;MCQS;C;C;1;Material Manufacturing
+G-META-20-11;MCQS-NUM;C;D;0;Material Processing
+G-META-20-14;MCQS;B;B;1;Material Manufacturing
+G-META-20-15;MCQS;A;C;0;Material Testing
+G-META-20-16;MCQS;A;A;1;Material Processing
+G-META-20-18;MCQS;A;A;1;Fluid Mechanics
+G-META-20-2;MCQS;B;B;1;Fluid Mechanics
+G-META-20-20;MCQS;D;A,D;0;Material Manufacturing
+G-META-20-22;NUM;48O TO 494;152;0;Material Manufacturing
+G-META-20-23;NUM;4;4;1;Material Manufacturing
+G-META-20-24;NUM;5.6 TO 5.8;11,4;0;Thermodynamics
+G-META-20-25;NUM;7 TO 9;4;0;Atomic Structure
+G-META-20-27;MCQS;B;C;0;Mechanical Properties
+G-META-20-28;MCQS-NUM;C;B;0;Thermodynamics
+G-META-20-3;MCQS;B;C;0;Mechanical Properties
+G-META-20-30;MATCH;D;D;1;Electrical Properties
+G-META-20-32;MATCH;C;C;1;Transport Phenomena
+G-META-20-33;MATCH;C;C;1;Transport Phenomena
+G-META-20-34;MCQS-NUM;C;D;0;Phase Transition
+G-META-20-35;MATCH;D;D;1;Atomic Structure
+G-META-20-36;MCQS-NUM;C;C;1;Phase Transition
+G-META-20-37;MCQS;B;B;1;Atomic Structure
+G-META-20-38;MCQS;D;D;1;Material Applications
+G-META-20-39;MATCH;C;C;1;Material Applications
+G-META-20-4;MCQS;D;D;1;Mechanical Properties
+G-META-20-40;NUM;0.018 TO 0.020;0,307;0;Mechanical Properties
+G-META-20-43;NUM;0.190 TO 0.238;3,981;0;Material Applications
+G-META-20-44;NUM;0.54 TO 0.58;0,22;0;Material Testing
+G-META-20-45;NUM;15;15;1;Thermodynamics
+G-META-20-48;NUM;28.6 TO 29.0;21,9;0;Material Applications
+G-META-20-49;NUM;19 TO 21;0;0;Material Manufacturing
+G-META-20-5;MCQS;B;B;1;Thermodynamics
+G-META-20-50;NUM;0.14 TO 0.16;0,062;0;Miscellaneous
+G-META-20-51;NUM;933 TO 939;983;0;Thermodynamics
+G-META-20-52;NUM;2.6 TO 3.0;2,83;1;Thermodynamics
+G-META-20-53;NUM;14 TO 18;16;1;Atomic Structure
+G-META-20-54;NUM;0.06 TO 0.08;0,19;0;Electrical Properties
+G-META-20-6;MCQS;C;C;1;Phase Transition
+G-META-20-7;MCQS;MARKS TO ALL;C;1;Atomic Structure
+G-META-20-8;MCQS;B;B;1;Mechanical Properties
+G-META-20-9;MCQS;D;D;1;Thermodynamics
+G-META-21-10;MCQS;C;C;1;Fluid Mechanics
+G-META-21-11;MCQS;B;B;1;Thermodynamics
+G-META-21-12;MCQS;A;A;1;Fluid Mechanics
+G-META-21-13;MCQS;B;B;1;Material Manufacturing
+G-META-21-15;NUM;48;98;0;Material Manufacturing
+G-META-21-16;NUM;-48251 TO -48240;24125;0;Material Manufacturing
+G-META-21-17;NUM;-2962 TO -2958;2970;0;Material Applications
+G-META-21-19;NUM;20;20;1;Transport Phenomena
+G-META-21-20;NUM;1.7 TO 2.3;4;0;Atomic Structure
+G-META-21-21;NUM;34.8 TO 36.1;60;0;Thermodynamics
+G-META-21-22;NUM;0.22 TO 0.30;0,26;1;Electrical Properties
+G-META-21-23;NUM;840000;840000;1;Material Manufacturing
+G-META-21-25;NUM;6.85 TO 7.00;41,59;0;Material Processing
+G-META-21-28;MATCH;C;C;1;Material Processing
+G-META-21-29;MCQS;C;;0;Material Processing
+G-META-21-30;MCQS;B;B;1;Phase Transition
+G-META-21-31;MCQS;B;D;0;Material Testing
+G-META-21-32;MCQS;A;;0;Phase Transition
+G-META-21-34;MCQS;A;A;1;Transport Phenomena
+G-META-21-35;MATCH;A;A;1;Thermodynamics
+G-META-21-36;MCQS-NUM;A;A;1;Atomic Structure
+G-META-21-40;NUM;25;150;0;Mechanical Properties
+G-META-21-41;NUM;58 TO 62;120;0;Material Manufacturing
+G-META-21-42;NUM;0.90 TO 0.94 OR -0.94 TO -0.90;0,92;1;Electrical Properties
+G-META-21-43;NUM;-24.00 TO -23.50;-23,74;1;Thermodynamics
+G-META-21-44;NUM;2230 TO 2270;-6145;0;Mechanical Properties
+G-META-21-47;NUM;40;20;0;Magnetic Properties
+G-META-21-48;NUM;0.6 TO 0.6;0,6;1;Thermodynamics
+G-META-21-49;NUM;98 TO 102;2;0;Thermodynamics
+G-META-21-5;MCQS;D;A,D;0;Atomic Structure
+G-META-21-52;NUM;-0.60 TO -0.50;-0,0383;0;Phase Transition
+G-META-21-53;NUM;0.017 TO 0.023;0,124;0;Fluid Mechanics
+G-META-21-54;NUM;4;4;1;Electrical Properties
+G-META-21-6;MCQS;D;C;0;Material Manufacturing
+G-META-21-7;MCQS;B;D;0;Material Manufacturing
+G-META-21-8;MCQS;A;B;0;Thermodynamics
+G-META-21-9;MCQS;D;B;0;Transport Phenomena
+G-META-22-12;MCQS;B;B;1;Atomic Structure
+G-META-22-13;MCQS;C;C;1;Phase Transition
+G-META-22-14;MCQS;C;C;1;Mechanical Properties
+G-META-22-15;MCQS;A;A;1;Mechanical Properties
+G-META-22-16;MCQS;C;C;1;Mechanical Properties
+G-META-22-17;MCQS;D;D;1;Mechanical Properties
+G-META-22-18;MCQS;A;A;1;Material Testing
+G-META-22-19;MCQS;B;B;1;Material Processing
+G-META-22-20;MATCH;D;D;1;Atomic Structure
+G-META-22-24;MCQS;A;A;1;Material Manufacturing
+G-META-22-25;MCQS;A;C;0;Material Manufacturing
+G-META-22-26;MCQS;C;C;1;Phase Transition
+G-META-22-27;MATCH;D;A;0;Material Characterization
+G-META-22-28;MCQS;B;B;1;Material Applications
+G-META-22-29;MATCH;B;A;0;Material Applications
+G-META-22-30;MCQS;A,B,C;A,B,C;1;Mechanical Properties
+G-META-22-31;MCQS;B,C;B,C;1;Thermodynamics
+G-META-22-32;MCQS;B,C;A,C;0;Transport Phenomena
+G-META-22-33;MCQS;B,D;B,D;1;Fluid Mechanics
+G-META-22-38;MATCH;A;A;1;Electrical Properties
+G-META-22-39;MCQS;B;A;0;Thermodynamics
+G-META-22-40;MATCH;B;C;0;Mechanical Properties
+G-META-22-41;MCQS;C;C;1;Material Processing
+G-META-22-43;MCQS;C,D;C,D;1;Mechanical Properties
+G-META-22-44;MCQS;A,C,D;A,B,C,D;0;Atomic Structure
+G-META-22-45;MCQS;A,B,D;C,D;0;Electrical Properties
+G-META-22-46;NUM;0.069 TO 0.075;0,073;1;Electrical Properties
+G-META-22-47;NUM;4.3 TO 4.3;4,3;1;Material Manufacturing
+G-META-22-48;NUM;2.7 TO 2.76;0;0;Mechanical Properties
+G-META-22-49;NUM;-233.5 TO -232.5;-218,5;0;Material Testing
+G-META-22-50;NUM;2.86 TO 2.93;0,05;0;Thermodynamics
+G-META-22-51;NUM;400 TO 400;1;0;Thermodynamics
+G-META-22-53;NUM;0.121 TO 0.125;0,123;1;Atomic Structure
+G-META-22-55;NUM;25.1 TO 25.9;25,5;1;Mechanical Properties
+G-META-22-56;NUM;15 TO 15;15;1;Mechanical Properties
+G-META-22-57;NUM;1.059 TO 1.071;1;0;Material Manufacturing
+G-META-22-58;NUM;197 TO 201;7874;0;Material Processing
+G-META-22-59;NUM;220 TO 220;214;0;Transport Phenomena
+G-META-22-60;NUM;200 TO 210;0;0;Mechanical Properties
+G-META-22-62;NUM;16.55 TO 18.55;1,53;0;Atomic Structure
+G-META-22-65;NUM;59 TO 61;60;1;Material Manufacturing
+G-XEC-2012-1;MCQS;D;D;1;Material Manufacturing
+G-XEC-2012-10;MATCH;B;B;1;Material Manufacturing
+G-XEC-2012-11;MATCH;A;A;1;Material Applications
+G-XEC-2012-12;MATCH;D;D;1;Thermodynamics
+G-XEC-2012-13;MATCH;C;C;1;Thermodynamics
+G-XEC-2012-14;MCQS-NUM;D;D;1;Atomic Structure
+G-XEC-2012-15;MCQS-NUM;B;B;1;Magnetic Properties
+G-XEC-2012-16;MCQS-NUM;C;A;0;Material Processing
+G-XEC-2012-17;MCQS-NUM;A;A;1;Fluid Mechanics
+G-XEC-2012-18;MCQS-NUM;B;;0;Material Applications
+G-XEC-2012-19;MCQS-NUM;D;D;1;Thermodynamics
+G-XEC-2012-2;MCQS;C;C;1;Mechanical Properties
+G-XEC-2012-21;MCQS-NUM;B;B;1;Mechanical Properties
+G-XEC-2012-22;MCQS-NUM;C;C;1;Material Manufacturing
+G-XEC-2012-3;MCQS;A;A;1;Thermodynamics
+G-XEC-2012-4;MCQS;B;B;1;Material Manufacturing
+G-XEC-2012-5;MCQS;A;C;0;Material Manufacturing
+G-XEC-2012-6;MCQS;C;C;1;Atomic Structure
+G-XEC-2012-7;MCQS;B;B;1;Thermodynamics
+G-XEC-2012-8;MCQS;D;D;1;Material Applications
+G-XEC-2012-9;MCQS;A;A;1;Material Testing
+G-XEC-2013-1;MCQS;A;A;1;Thermodynamics
+G-XEC-2013-10;MATCH;D;D;1;Thermodynamics
+G-XEC-2013-11;MATCH;C;C;1;Mechanical Properties
+G-XEC-2013-12;MATCH;C;C;1;Fluid Mechanics
+G-XEC-2013-13;NUM;0.178 to 0.18;0,175;0;Material Manufacturing
+G-XEC-2013-14;NUM;0.04 to 0.045;0,0247;0;Material Manufacturing
+G-XEC-2013-15;NUM;0.85 to 0.89 ;0,542;0;Material Processing
+G-XEC-2013-2;MCQS;D;D;1;Mechanical Properties
+G-XEC-2013-21;NUM;Marks to all ;57,29;1;Thermodynamics
+G-XEC-2013-22;NUM;Marks to all ;2,5;1;Thermodynamics
+G-XEC-2013-3;MCQS;C;B;0;Material Manufacturing
+G-XEC-2013-4;MCQS;B;B;1;Material Processing
+G-XEC-2013-5;MCQS;D;D;1;Atomic Structure
+G-XEC-2013-6;MCQS;B;B;1;Material Testing
+G-XEC-2013-7;MCQS;B;B;1;Material Processing
+G-XEC-2013-8;MCQS;A;A;1;Fluid Mechanics
+G-XEC-2013-9;MCQS;A;A;1;Material Manufacturing
+G-XEC-2014-1;MCQS;C;C;1;Atomic Structure
+G-XEC-2014-10;NUM;5555 to 5556;5547;0;Material Manufacturing
+G-XEC-2014-11;NUM;91 to 92;47,52;0;Mechanical Properties
+G-XEC-2014-12;NUM;48 to 49;13,35;0;Material Processing
+G-XEC-2014-13;MATCH;B;B;1;Phase Transition
+G-XEC-2014-14;NUM;0.29 to 0.31;0,3;1;Material Manufacturing
+G-XEC-2014-15;MATCH;C;C;1;Phase Transition
+G-XEC-2014-16;MCQS;A;A;1;Atomic Structure
+G-XEC-2014-17;MCQS-NUM;D;D;1;Material Manufacturing
+G-XEC-2014-18;NUM;0.47 to 0.49;0,482;1;Magnetic Properties
+G-XEC-2014-19;MATCH;D;D;1;Atomic Structure
+G-XEC-2014-2;MCQS;A;A;1;Atomic Structure
+G-XEC-2014-21;NUM;40 to 41;40,64;1;Thermodynamics
+G-XEC-2014-22;NUM;115 to 120;312,8;0;Fluid Mechanics
+G-XEC-2014-3;MCQS;C;C;1;Magnetic Properties
+G-XEC-2014-4;MCQS;D;A;0;Phase Transition
+G-XEC-2014-5;MCQS;C;C;1;Atomic Structure
+G-XEC-2014-6;MCQS;D;D;1;Atomic Structure
+G-XEC-2014-7;MCQS;B;B;1;Mechanical Properties
+G-XEC-2014-8;MCQS;A;A;1;Mechanical Properties
+G-XEC-2014-9;MCQS;B;C;0;Mechanical Properties
+G-XEC-2015-44-1;MCQS;C;C;1;Transport Phenomena
+G-XEC-2015-45-2;MCQS;A;A;1;Thermodynamics
+G-XEC-2015-46-3;MCQS;B;B;1;Electrical Properties
+G-XEC-2015-47-4;MCQS;D;C;0;Atomic Structure
+G-XEC-2015-48-5;MCQS;B;B;1;Mechanical Properties
+G-XEC-2015-49-6;MCQS;C;C;1;Electrical Properties
+G-XEC-2015-50-7;MCQS;D;D;1;Transport Phenomena
+G-XEC-2015-51-8;MCQS;B;B;1;Thermodynamics
+G-XEC-2015-52-9;MCQS;B;B;1;Atomic Structure
+G-XEC-2015-53-10;MATCH;C;C;1;Transport Phenomena
+G-XEC-2015-55-12;NUM;151 to 152;151,51;1;Atomic Structure
+G-XEC-2015-56-13;NUM;4.8 to 4.9;2,9;0;Mechanical Properties
+G-XEC-2015-57-14;NUM;1.5 to 1.55;1,53;1;Atomic Structure
+G-XEC-2015-58-15;NUM;0.470 to 0.475;4,7216;0;Thermodynamics
+G-XEC-2015-59-16;NUM;2 to 2.3;2,17;1;Thermodynamics
+G-XEC-2015-60-17;MATCH;B;B;1;Atomic Structure
+G-XEC-2015-61-18;MCQS;D;D;1;Atomic Structure
+G-XEC-2015-62-19;MCQS-NUM;B;C;0;Transport Phenomena
+G-XEC-2015-63-20;NUM;588 to 592;531,27;0;Mechanical Properties
+G-XEC-2015-64-21;NUM;8675 to 8680;8669;0;Thermodynamics
+G-XEC-2015-65-22;NUM;1399 to 1401;1400;1;Thermodynamics
+G-XEC-2016-1;MCQS;C;C;1;Mechanical Properties
+G-XEC-2016-10;MATCH;B;B;1;Atomic Structure
+G-XEC-2016-11;NUM;15.35 : 15.45;15,44;1;Thermodynamics
+G-XEC-2016-12;NUM;210 : 210;150;0;Atomic Structure
+G-XEC-2016-13;NUM;6850 : 6950;6882;1;Thermodynamics
+G-XEC-2016-14;NUM;6.00 : 7.30;11,9;0;Magnetic Properties
+G-XEC-2016-14;NUM;6.00 : 7.30;11,9;0;Thermodynamics
+G-XEC-2016-15;MATCH;A;A;1;Transport Phenomena
+G-XEC-2016-16;NUM;16666 : 16668;4166,67;0;Magnetic Properties
+G-XEC-2016-17;NUM;11.30 : 11.40;1,135;0;Atomic Structure
+G-XEC-2016-19;NUM;42 TO 43;42,52;1;Phase Transition
+G-XEC-2016-2;MCQS;C;C;1;Phase Transition
+G-XEC-2016-20;MATCH;A;A;1;Mechanical Properties
+G-XEC-2016-21;MCQS;C;C;1;Electrical Properties
+G-XEC-2016-22;NUM;35 TO 36;54,73;0;Thermodynamics
+G-XEC-2016-3;MCQS;D;D;1;Transport Phenomena
+G-XEC-2016-4;MCQS;C;A;0;Electrical Properties
+G-XEC-2016-5;MCQS;C;D;0;Mechanical Properties
+G-XEC-2016-6;NUM;81;;0;Atomic Structure
+G-XEC-2016-7;MCQS;B;B;1;Thermodynamics
+G-XEC-2016-8;NUM;4;3;0;Transport Phenomena
+G-XEC-2016-9;MCQS;B;B;1;Thermodynamics
+G-XEC-2017-1;MCQS;B;B;1;Thermodynamics
+G-XEC-2017-10;NUM;0.99 to 1.010;0,998;1;Material Processing
+G-XEC-2017-11;NUM;53 to 53.2;53,1;1;Material Manufacturing
+G-XEC-2017-12;MATCH;A;A;1;Mechanical Properties
+G-XEC-2017-13;MATCH;A;A;1;Mechanical Properties
+G-XEC-2017-14;NUM;7.5 to 7.7;2,177;0;Thermodynamics
+G-XEC-2017-16;MCQS;B;D;0;Thermodynamics
+G-XEC-2017-17;NUM;7.5 to 7.80;1,9719;0;Phase Transition
+G-XEC-2017-18;NUM;172 TO 174;100;0;Material Manufacturing
+G-XEC-2017-19;MCQS;D;B;0;Material Manufacturing
+G-XEC-2017-2;MCQS;D;D;1;Mechanical Properties
+G-XEC-2017-20;NUM;1.35 to 1.37;1,36;1;Mechanical Properties
+G-XEC-2017-21;MCQS-NUM;C;B;0;Mechanical Properties
+G-XEC-2017-22;MCQS;A;A;1;Mechanical Properties
+G-XEC-2017-3;MCQS;C;C;1;Fluid Mechanics
+G-XEC-2017-4;MCQS;B;B;1;Material Manufacturing
+G-XEC-2017-5;MCQS;A;A,B,C;0;Atomic Structure
+G-XEC-2017-6;MCQS;C;C;1;Electrical Properties
+G-XEC-2017-7;MCQS;D;B;0;Mechanical Properties
+G-XEC-2017-8;MCQS-NUM;B;D;0;Mechanical Properties
+G-XEC-2017-9;MCQS;D;D;1;Thermodynamics
+G-XEC-2018-1;MCQS;C;C;1;Thermodynamics
+G-XEC-2018-10;MATCH;B;B;1;Electrical Properties
+G-XEC-2018-11;MCQS-NUM;A;A;1;Thermodynamics
+G-XEC-2018-12;MCQS-NUM;B;A;0;Thermodynamics
+G-XEC-2018-13;NUM;430 to 500;1000;0;Material Manufacturing
+G-XEC-2018-15;NUM;2.60 to 2.70;2,67;1;Atomic Structure
+G-XEC-2018-16;NUM;59.00 to 60.00;119;0;Mechanical Properties
+G-XEC-2018-17;NUM;1.85 to 2.00;15,3;0;Thermodynamics
+G-XEC-2018-18;NUM;132 to 132;132;1;Thermodynamics
+G-XEC-2018-2;MCQS;A;B;0;Mechanical Properties
+G-XEC-2018-20;NUM;5 to 5;2;0;Mechanical Properties
+G-XEC-2018-21;NUM;15.5 to 18.5;4,03;0;Material Manufacturing
+G-XEC-2018-22;NUM;1420 to 1480;1370;0;Material Manufacturing
+G-XEC-2018-3;MCQS;B;B;1;Mechanical Properties
+G-XEC-2018-4;MCQS;C;C;1;Mechanical Properties
+G-XEC-2018-5;MCQS;A;A;1;Atomic Structure
+G-XEC-2018-6;MCQS-NUM;D;D;1;Mechanical Properties
+G-XEC-2019-1;MCQS;B;B;1;Thermodynamics
+G-XEC-2019-10;MCQS;B;B;1;Material Manufacturing
+G-XEC-2019-11;MATCH;B;B;1;Electrical Properties
+G-XEC-2019-12;MCQS;B;C;0;Mechanical Properties
+G-XEC-2019-14;NUM;45 to 52;0;0;Material Manufacturing
+G-XEC-2019-15;NUM;0.28 to 0.32;1,04;0;Material Manufacturing
+G-XEC-2019-16;NUM;360 to 364;407;0;Mechanical Properties
+G-XEC-2019-18;NUM;9.2 to 9.6;390,4;0;Atomic Structure
+G-XEC-2019-19;NUM;2.10 to 2.35;16,94;0;Material Manufacturing
+G-XEC-2019-20;NUM;666 to 670;1187;0;Phase Transition
+G-XEC-2019-21;NUM;560 to 565;0;0;Thermodynamics
+G-XEC-2019-22;NUM;11.0 to 12.5;11,7;1;Fluid Mechanics
+G-XEC-2019-3;MCQS;A;C;0;Mechanical Properties
+G-XEC-2019-4;MCQS;A;A;1;Thermodynamics
+G-XEC-2019-5;MCQS-NUM;B;;0;Thermodynamics
+G-XEC-2019-6;MCQS-NUM;B;B;1;Thermodynamics
+G-XEC-2019-7;MCQS;C;C;1;Mechanical Properties
+G-XEC-2019-8;MCQS;D;D;1;Mechanical Properties
+G-XEC-2019-9;MCQS-NUM;B;B;1;Mechanical Properties
+G-XEC-2020-1;MCQS-NUM;C;C;1;Thermodynamics
+G-XEC-2020-10;MCQS;B;B;1;Material Manufacturing
+G-XEC-2020-11;MATCH;C;C;1;Material Manufacturing
+G-XEC-2020-12;MCQS-NUM;D;;0;Thermodynamics
+G-XEC-2020-13;MCQS-NUM;D;A;0;Material Manufacturing
+G-XEC-2020-14;NUM;69 to 69;70;0;Mechanical Properties
+G-XEC-2020-15;NUM;0.84 to 0.90;0,75;0;Material Manufacturing
+G-XEC-2020-16;NUM;0.33 to 0.45;0,28;0;Mechanical Properties
+G-XEC-2020-18;NUM;4 to 4;3,3;0;Atomic Structure
+G-XEC-2020-2;MCQS;B;B;1;Electrical Properties
+G-XEC-2020-21;NUM;2.20 to 2.28;2,24;1;Atomic Structure
+G-XEC-2020-22;NUM;77 to 83;;0;Atomic Structure
+G-XEC-2020-4;MCQS;A;A;1;Electrical Properties
+G-XEC-2020-8;NUM;157 to 159;26;0;Miscellaneous
+G-XEC-2020-9;NUM;1.9 to 2.1;2;1;Phase Transition
+G-XEC-2021-1;MCQS;C;C;1;Material Manufacturing
+G-XEC-2021-10;MATCH;B;B;1;Electrical Properties
+G-XEC-2021-11;MATCH;C;C;1;Mechanical Properties
+G-XEC-2021-13;MCQS;"A; B";A,B;1;Mechanical Properties
+G-XEC-2021-14;NUM;5.85 to 6.00;5,21;0;Material Manufacturing
+G-XEC-2021-15;NUM;9600 to 9800 ;1;0;Material Manufacturing
+G-XEC-2021-16;NUM;38 to 42;40;1;Electrical Properties
+G-XEC-2021-17;NUM;3.4 to 4.8;5,3;0;Phase Transition
+G-XEC-2021-18;NUM;71 to 77;649;0;Magnetic Properties
+G-XEC-2021-19;NUM;210 to 220;2.16*10^11;0;Atomic Structure
+G-XEC-2021-2;MCQS;C;C;1;Phase Transition
+G-XEC-2021-20;NUM;0.60 to 0.62;1,18;0;Atomic Structure
+G-XEC-2021-21;NUM;2.10 to 2.14;2,12;1;Mechanical Properties
+G-XEC-2021-22;NUM;0.1 to 0.1;1,10E-05;0;Material Manufacturing
+G-XEC-2021-3;MCQS;D;A;0;Material Manufacturing
+G-XEC-2021-4;MCQS;C;C;1;Thermodynamics
+G-XEC-2021-5;MATCH;C;C;1;Thermodynamics
+G-XEC-2021-6;MCQS;B;B;1;Mechanical Properties
+G-XEC-2021-7;MCQS;B;B;1;Mechanical Properties
+G-XEC-2021-8;MCQS;"B; D";C;0;Electrical Properties
+G-XEC-2021-9;NUM;0.056 TO 0.063;60,48;0;Atomic Structure
+G-XEC-2022-1;MCQS;B;NONE;0;Material Manufacturing
+G-XEC-2022-10;MCQS;C;B;0;Mechanical Properties
+G-XEC-2022-11;MCQS;C;C;1;Atomic Structure
+G-XEC-2022-14;MCQS;C;C;1;Material Processing
+G-XEC-2022-15;MCQS;A;C;0;Mechanical Properties
+G-XEC-2022-16;MCQS;A,C;A,C;1;Thermodynamics
+G-XEC-2022-17;NUM;0.5 to 0.5;0,5;1;Thermodynamics
+G-XEC-2022-18;NUM;9.7 to 11.2;270,2;0;Electrical Properties
+G-XEC-2022-2;MATCH;C;C;1;Atomic Structure
+G-XEC-2022-20;NUM;0.45 to 0.47;0,72;0;Material Manufacturing
+G-XEC-2022-21;NUM;1.40 to 1.43;0,79;0;Thermodynamics
+G-XEC-2022-22;NUM;5.64 to 5.73;3,98;0;Thermodynamics
+G-XEC-2022-3;MCQS;C;C;1;Transport Phenomena
+G-XEC-2022-4;MCQS;A;B;0;Thermodynamics
+G-XEC-2022-5;MCQS;C;C;1;Material Applications
+G-XEC-2022-6;MCQS;D;D;1;Material Processing
+G-XEC-2022-7;MCQS;B,C;C;0;Mechanical Properties
+G-XEC-2022-8;NUM;4232 to 4249;6.02*10^23;0;Thermodynamics
+G-XEC-2022-9;NUM;2.20 to 2.30;2,23;1;Material Applications

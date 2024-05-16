@@ -1,0 +1,1 @@
+{"model": "mistralai/mistral-7b-instruct:nitro", "embedding": "mixedbread-ai/mxbai-embed-large-v1", "collection": "books_mxbai-embed-large-v1", "date": "202404261713", "num_rows": 650}
